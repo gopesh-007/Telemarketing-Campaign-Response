@@ -18,7 +18,6 @@ This project analyzes comprehensive Portuguese bank telemarketing data to extrac
 
 ## 📄 Project Documentation
 * [Read the Full Project Report](docs/Gopesh_report.pdf)
-*(Note: Ensure your report is exported as a PDF for direct browser viewing)*
 
 ## 📊 Key Findings & Strategic Recommendations
 Through rigorous Exploratory Data Analysis and predictive modeling, the following strategies were identified to optimize marketing efforts:
